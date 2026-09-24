@@ -1,3 +1,0 @@
-name = "cf-workers-docker-io"  # 这里必须和你 Cloudflare Dashboard 上的 Worker 名称完全一致[citation:1]
-main = "src/index.js"          # 或者你的入口文件路径
-compatibility_date = "2024-09-23"
